@@ -5,7 +5,7 @@
 - [월드 와이드 웹](./www.md)
 - [마크다운](./markdown.md)
 - [MDX](./mdx.md)
-- [리엑트](./react.md)
+- [React](./react.md)
 - [Avalonia UI](./avalonia-ui.md)
 
 ## 컴퓨터 활용 기술
